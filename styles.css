@@ -1,0 +1,45 @@
+body {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  background: #f3f3f3;
+  box-sizing: border-box;
+}
+.container {
+  border: 5px solid red;
+}
+.box {
+  padding: 30px;
+  text-align: center;
+  font-size: 22px;
+  background: #f3f3f3;
+}
+.box-1 {
+  background: brown;
+  /* font-size: 44px; */
+}
+.box-2 {
+  background: orange;
+}
+.box-3 {
+  background: orangered;
+}
+.box-4 {
+  background: rgb(5, 5, 75);
+}
+.box-5 {
+  background: green;
+}
+.generic-1 {
+  background: brown;
+}
+.generic-2 {
+  background: orange;
+}
+.generic-3 {
+  background: orangered;
+}
+.generic-4 {
+  background: rgb(5, 5, 75);
+}
+.generic-5 {
+  background: green;
+}
